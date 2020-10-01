@@ -13,3 +13,11 @@ If you are in any of the categories listed above, then you have arrived at the r
 **The order of the papers won't strictly be according to the timeline on arXiv. Sometimes I put a paper on hold and read it after a while.**
 
 **PS:** I cannot annotate all the papers I read, but if I liked one, then that will be uploaded here. Also, there will be blog posts for a few research papers that are really important.
+
+Other important links to find latest research papers.
+
+* [PapersWithCode](https://paperswithcode.com/)
+
+* [Berkeley University](https://bair.berkeley.edu/blog/)
+
+* [Google AI Blog](https://ai.googleblog.com/)

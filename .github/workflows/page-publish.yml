@@ -1,0 +1,29 @@
+name: Node.js CI
+
+on: [push]
+
+jobs:
+  gh-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+        - uses: actions/checkout@v2
+
+        - name: Use Node.js
+          uses: actions/setup-node@v1
+          with:
+            node-version: 12.x
+
+        - name: Build
+          run: |
+            cd pages
+            yarn install
+            yarn build
+
+        - name: Deploy 🚀
+          uses: JamesIves/github-pages-deploy-action@3.6.2
+          with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            BRANCH: gh-pages
+            FOLDER: pages/build
+            CLEAN: true

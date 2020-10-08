@@ -1,0 +1,47 @@
+[
+  {
+    "category": "GAN",
+    "title": "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks",
+    "path": "/papers/gans/CycleGan.pdf"
+  },
+  {
+    "category": "Interpretability & Explainability",
+    "title": "What is being transferred in transfer learning?",
+    "path": "/papers/interpretability_and_explainability/what_is_being_transferred_in_transfer_learning.pdf"
+  },
+  {
+    "category": "Meta Learning",
+    "title": "Adaptive Risk Minimization: A Meta-Learning Approach for Tackling Group Shift",
+    "path": "/papers/meta-learning/adaptive_risk_minimization.pdf"
+  },
+  {
+    "category": "Segmentation",
+    "title": "Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation",
+    "path": "/papers/segmentation/axial_deeplab.pdf"
+  },
+  {
+    "category": "Self Supervised Learning",
+    "title": "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments",
+    "path": "/papers/self-supervised-learning/Swav.pdf"
+  },
+  {
+    "category": "Self Supervised Learning",
+    "title": "What Should Not Be Contrastive in Contrastive Learning",
+    "path": "/papers/self-supervised-learning/what-shouldnt-be-contrastive-in-constrastive-learning.pdf"
+  },
+  {
+    "category": "Supervised Learning",
+    "title": "Flow-edge Guided Video Completion",
+    "path": "/papers/supervised/flowedge_guided_video_completion.pdf"
+  },
+  {
+    "category": "Supervised Learning",
+    "title": "Supervised Contrastive Learning",
+    "path": "/papers/supervised/supervised_contrastive_learning.pdf"
+  },
+  {
+    "category": "Supervised Learning",
+    "title": "An image is worth 16x16 words: transformers for image recognition at scale",
+    "path": "/papers/supervised/Transformers/an_image_is_worth_16x16_words_transformers_for_image_recognition_at_scale.pdf"
+  }
+]

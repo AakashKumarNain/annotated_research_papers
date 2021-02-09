@@ -1,5 +1,7 @@
 # annotated_research_papers
 
+**Update:** If you like a web version, you can visit [papersplease](http://papersplease.ml) Built using [H2O Wave](https://www.h2o.ai/products/h2o-wave/)
+
 ![Alt Text](img/papers.gif)
 
 

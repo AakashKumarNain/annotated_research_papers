@@ -3,7 +3,7 @@
 
 # annotated_research_papers
 
-![Alt Text](img/papers.gif)
+![Alt Text](static/papers.gif)
 
 
 ## Why annotated papers?

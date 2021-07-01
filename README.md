@@ -1,5 +1,5 @@
 
-**Update:** If you like a web version, you can visit [papersplease](http://papersplease.ml) This was built using the exceptional open-source [H2O Wave](https://www.h2o.ai/products/h2o-wave/) framework in a few days. Check it out if you want to build apps for your ML projects in pure Python! <br>
+**Update:** If you like a web version, you can visit [Papers Pro](http://paperspro.ml) This was built using the exceptional open-source [H2O Wave](https://www.h2o.ai/products/h2o-wave/) framework in a few days. Check it out if you want to build apps for your ML projects in pure Python! <br>
 
 # annotated_research_papers
 

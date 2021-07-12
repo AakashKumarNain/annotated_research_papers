@@ -16,4 +16,4 @@
 15,EfficientNetv2,efficientnet_v2,05/04/21,Supervised Learning,https://arxiv.org/abs/2104.00298,https://paperswithcode.com/paper/efficientnetv2-smaller-models-and-faster
 16,SpeechStew,speech_stew,18/04/21,Supervised Learning,https://arxiv.org/abs/2104.02133,https://paperswithcode.com/paper/speechstew-simply-mix-all-available-speech
 17,Emerging Properties in Self-Supervised Vision Transformers,emerging_properties_in_self_supervised_vit,23/05/21,"Self-Supervised Learning, Transformers",https://arxiv.org/abs/2104.14294,https://paperswithcode.com/paper/emerging-properties-in-self-supervised-vision
-18,Robust and Generalizable Visual Respresentation Learning Via Random Convolutions,rand_conv.pdf,10/07/21,Supervised Learning,https://arxiv.org/pdf/2007.13003,https://paperswithcode.com/paper/robust-and-generalizable-visual
+18,Robust and Generalizable Visual Respresentation Learning Via Random Convolutions,rand_conv,10/07/21,Supervised Learning,https://arxiv.org/pdf/2007.13003,https://paperswithcode.com/paper/robust-and-generalizable-visual

@@ -20,9 +20,9 @@ If you are in any of the categories listed above, then you have arrived at the r
 
 # Table of Contents
 
-**Note:** Updates are being to this table
+**Note:** Updates are being made to this table
 
 | Category            | <div style="width:250px"> Annotated Paper</div>                        | Research Lab(if any) |                |                                    |
 | -----------         | -----------------------------------                                    | ---------------------| -------------- | ------                             |
 | Supervised Learning | [ConvNext](./supervised/convnexts.pdf)                                 | FAIR                 | [Code](https://github.com/facebookresearch/ConvNeXt) | [Abstract](https://arxiv.org/abs/2201.03545v1)|
-| Supervised Learning | [EfficientNetsV2](./supervised/efficientnet_v2.pdf)                    | Google Research      | [Code](https://github.com/google/automl/tree/master/efficientnetv2) | [Abstract](https://arxiv.org/abs/2104.00298v3)|
+|  | [EfficientNetsV2](./supervised/efficientnet_v2.pdf)                    | Google Research      | [Code](https://github.com/google/automl/tree/master/efficientnetv2) | [Abstract](https://arxiv.org/abs/2104.00298v3)|

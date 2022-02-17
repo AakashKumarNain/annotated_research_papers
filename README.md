@@ -22,7 +22,10 @@ If you are in any of the categories listed above, then you have arrived at the r
 
 **Note:** Updates are being made to this table
 
-| Category            | <div style="width:250px"> Annotated Paper</div>                        | Research Lab(if any) |                |                                    |
-| -----------         | -----------------------------------                                    | ---------------------| -------------- | ------                             |
-| Supervised Learning | [ConvNext](./supervised/convnexts.pdf)                                 | FAIR                 | [Code](https://github.com/facebookresearch/ConvNeXt) | [Abstract](https://arxiv.org/abs/2201.03545v1)|
-|  | [EfficientNetsV2](./supervised/efficientnet_v2.pdf)                    | Google Research      | [Code](https://github.com/google/automl/tree/master/efficientnetv2) | [Abstract](https://arxiv.org/abs/2104.00298v3)|
+| Field           | Category   | Annotated Paper  |                                                               |                                         |
+|:----------------|:-----------|:---------------------------------------------------------------------------------------|:--------------------------------------------------------------------|:------------------------------------------------|
+| Computer Vision |            | [ConvNext](./supervised/convnexts.pdf)                                                 | [Code](https://github.com/facebookresearch/ConvNeXt)                | [Abstract](https://arxiv.org/abs/2201.03545v1)  |
+|                 |            | [EfficientNetsV2](./supervised/efficientnet_v2.pdf)                                    | [Code](https://github.com/google/automl/tree/master/efficientnetv2) | [Abstract](https://arxiv.org/abs/2104.00298v3)  |
+|                 | Supervised | [RandConv](./supervised/rand_conv.pdf)                                                 | [Code](https://github.com/wildphoton/RandConv)                      | [Abstract](https://arxiv.org/abs/2007.13003v3)  |
+|                 |            | [Is Batch Norm Unique?](./supervised/is_batch_norm_unique.pdf)                         |                                                                     | [Abstract](https://arxiv.org/abs/2010.10687v1)| |
+|                 |            | [Flow-edge Guided Video Completion](./supervised/flowedge_guided_video_completion.pdf) | Code](https://github.com/vt-vl-lab/FGVC)                            | [Abstract](https://arxiv.org/abs/2009.01835v1)  |

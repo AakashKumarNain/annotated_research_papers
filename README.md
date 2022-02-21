@@ -22,7 +22,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 
 **Note:** Updates are being made to this table
 
-| Field           | Category        | Annotated Paper                                                                                                                                   | Code                                                                          | Abstract                                                |
+| Field           | Category        | Annotated Paper                                                                                                                                |                                                                          |                                             |
 |:----------------|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------|
 | Computer Vision |                 | [Adaptive Risk Minimization](./meta-learning/adaptive_risk_minimization.pdf)                                                                      |                                                                               | [Abstract](https://openreview.net/forum?id=MA8eT-vUPvZ) |
 |                 |                 | [Axial DeepLab](./segmentation/axial_deeplab.pdf)                                                                                                 | [Code](https://github.com/google-research/deeplab2)                           | [Abstract](https://arxiv.org/abs/2003.07853v2)          |

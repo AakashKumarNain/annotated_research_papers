@@ -20,8 +20,6 @@ If you are in any of the categories listed above, then you have arrived at the r
 
 # Table of Contents
 
-**Note:** Updates are being made to this table
-
 | Field           | Category        | Annotated Paper                                                                                                                                |                                                                          |                                             |
 |:----------------|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------|
 | Computer Vision |                 | [Adaptive Risk Minimization](./meta-learning/adaptive_risk_minimization.pdf)                                                                      |                                                                               | [Abstract](https://openreview.net/forum?id=MA8eT-vUPvZ) |
@@ -61,3 +59,9 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                                     |                 |                                                                                                                                                   |                                                                               |                                                         |
 |                                     |                 |                                                                                                                                                   |                                                                               |                                                         |
 | Others                              |                 | [Multi-Task Self-Training for Learning General Representations](./multi-task-learning/multi_task_self_training.pdf)                               |                                                                               | [Abstract](https://arxiv.org/abs/2108.11353v1)          |                                     |
+
+
+
+# Community Contributions
+
+**Note:** The annotated papers in this section are contributed by the community. As I cannot verify the annotation for each paper, I will lay out certain guidelines for annotations so that every annotated paper has same sections at least

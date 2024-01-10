@@ -81,6 +81,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
+| MLLMs           |                    | [VCoder: Versatile Vision Encoder for MLLMs](./MLLMs/vcoder.pdf)              |[Code](https://github.com/SHI-Labs/VCoder)| [Abstract](https://arxiv.org/abs/2312.14233)   |
 | Others          |                    | [Multi-Task Self-Training for Learning General Representations](./multi-task-learning/multi_task_self_training.pdf)          |                   | [Abstract](https://arxiv.org/abs/2108.11353v1)   |
 |                 |                    | [Decoder Denoising Pretraining for Semantic Segmentation](./segmentation/decoder_denoising_pretraining.pdf)     |                   | [Abstract](https://arxiv.org/abs/2205.11423)     |
 |                 |                    | [Sigmoid Loss for Image-Text Pretraining](./others/sigmoid_loss_for_image_text_pretraining.pdf)              |                    | [Abstract](https://arxiv.org/abs/2303.15343)

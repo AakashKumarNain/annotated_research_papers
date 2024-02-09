@@ -56,6 +56,8 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [Emergent Correspondence from Diffusion Models](./diffusion_models/emergent_correspondence_from_diffusion_models.pdf) |     | [Abstract](https://arxiv.org/abs/2306.03881)            |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
+|                 |                    |                   |                          |                       |
+|                 |                    |                   |                          |                       |
 | GANs            |                    | [CycleGan](./gans/cycle_gan.pdf) | [Code](https://keras.io/examples/generative/cyclegan/) | [Abstract](https://arxiv.org/abs/1703.10593v7) |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
@@ -70,6 +72,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 | NLP             |                    | [Do Language Embeddings Capture Scales?](./NLP/do_language_embeddings_capture_scales.pdf)|             | [Abstract](https://arxiv.org/abs/2010.05345v3)   |
 |                 |                    | [mSLAM](./NLP/mSLAM.pdf)       |    |  [Abstract](https://arxiv.org/abs/2202.01374) |
 |                 |                    | [Cramming](./NLP/cramming.pdf) |    |  [Abstract](https://arxiv.org/abs/2212.14034) |
+|                 |                    | [Shortened Llama](./NLP/shortened_llama.pdf) |    |  [Abstract](https://arxiv.org/abs/2402.02834) |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

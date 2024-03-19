@@ -87,6 +87,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 | MLLMs           |                    | [VCoder: Versatile Vision Encoder for MLLMs](./MLLMs/vcoder.pdf)              |[Code](https://github.com/SHI-Labs/VCoder)| [Abstract](https://arxiv.org/abs/2312.14233)   |
 |                 |                    | [Sigmoid Loss for Image-Text Pretraining](./MLLMs/sigmoid_loss_for_image_text_pretraining.pdf)              |                    | [Abstract](https://arxiv.org/abs/2303.15343)
 |                 |                    | [MobileCLIP](./MLLMs/mobileclip.pdf)              |                    | [Abstract](https://arxiv.org/abs/2311.17049)                         |
+|                 |                    | [MM1](./MLLMs/mm1.pdf)      |                     | [Abstract](https://arxiv.org/abs/2403.09611)                         |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

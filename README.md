@@ -89,6 +89,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [MobileCLIP](./MLLMs/mobileclip.pdf)              |                    | [Abstract](https://arxiv.org/abs/2311.17049)                         |
 |                 |                    | [MM1](./MLLMs/mm1.pdf)      |                     | [Abstract](https://arxiv.org/abs/2403.09611)                         |
 |                 |                    | [Ferretv2](./MLLMs/ferret_v2.pdf)      |                     | [Abstract](https://arxiv.org/abs/2404.07973)                         |
+|                 |                    | [VisualFactChecker](./MLLMs/visual_fact_checker.pdf)      |                     | [Abstract](https://arxiv.org/abs/2404.19752)                         |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

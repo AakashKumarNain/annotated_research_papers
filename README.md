@@ -73,6 +73,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [mSLAM](./NLP/mSLAM.pdf)       |    |  [Abstract](https://arxiv.org/abs/2202.01374) |
 |                 |                    | [Cramming](./NLP/cramming.pdf) |    |  [Abstract](https://arxiv.org/abs/2212.14034) |
 |                 |                    | [Shortened Llama](./NLP/shortened_llama.pdf) |    |  [Abstract](https://arxiv.org/abs/2402.02834) |
+|                 |                    | [CoPE](./NLP/cope.pdf) |    |  [Abstract](https://arxiv.org/abs/2405.18719) |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

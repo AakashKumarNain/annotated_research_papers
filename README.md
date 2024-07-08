@@ -74,6 +74,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [Cramming](./NLP/cramming.pdf) |    |  [Abstract](https://arxiv.org/abs/2212.14034) |
 |                 |                    | [Shortened Llama](./NLP/shortened_llama.pdf) |    |  [Abstract](https://arxiv.org/abs/2402.02834) |
 |                 |                    | [CoPE](./NLP/cope.pdf) |    |  [Abstract](https://arxiv.org/abs/2405.18719) |
+|                 |                    | [LLMs cannot plan but can help planning](./NLP/llms_cannot_plan.pdf) |    |  [Abstract](https://arxiv.org/abs/2402.01817) |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

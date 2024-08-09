@@ -75,6 +75,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [Shortened Llama](./NLP/shortened_llama.pdf) |    |  [Abstract](https://arxiv.org/abs/2402.02834) |
 |                 |                    | [CoPE](./NLP/cope.pdf) |    |  [Abstract](https://arxiv.org/abs/2405.18719) |
 |                 |                    | [LLMs cannot plan but can help planning](./NLP/llms_cannot_plan.pdf) |    |  [Abstract](https://arxiv.org/abs/2402.01817) |
+|                 |                    | [Mixture of A Million Experts](./NLP/mixture_of_million_experts.pdf) |    |  [Abstract](https://arxiv.org/abs/2407.04153) |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

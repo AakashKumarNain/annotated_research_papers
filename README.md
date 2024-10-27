@@ -77,6 +77,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [LLMs cannot plan but can help planning](./NLP/llms_cannot_plan.pdf) |    |  [Abstract](https://arxiv.org/abs/2402.01817) |
 |                 |                    | [Mixture of A Million Experts](./NLP/mixture_of_million_experts.pdf) |    |  [Abstract](https://arxiv.org/abs/2407.04153) |
 |                 |                    | [Agent Workflow Memory](./NLP/agent_workflow_memory.pdf) | [Code](https://github.com/zorazrw/agent-workflow-memory)   |  [Abstract](https://arxiv.org/abs/2409.07429) |
+|                 |                    | [What Matters for Model Merging at Scale?](./NLP/model_merging_at_scale.pdf) |   |  [Abstract](https://arxiv.org/abs/2410.03617) |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

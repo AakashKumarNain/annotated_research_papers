@@ -19,7 +19,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 
 | Field           | Category           | Annotated Paper     |             |           |
 |:----------------|:-------------------|:--------------------|:------------|:----------|
-| Computer Vision |                    | [Adaptive Risk Minimization](./meta-learning/adaptive_risk_minimizationpdf) |  | [Abstract](https://openreview.net/forum?id=MA8eT-vUPvZ)   |
+| Computer Vision |                    | [Adaptive Risk Minimization](./meta-learning/adaptive_risk_minimization.pdf) |  | [Abstract](https://openreview.net/forum?id=MA8eT-vUPvZ)   |
 |                 |                    | [Axial DeepLab](./segmentation/axial_deeplab.pdf)| [Code](https://github.com/google-research/deeplab2)| [Abstract](https://arxiv.org/abs/2003.07853v2)    |
 |                 |                    | [ConvNext](./supervised/convnexts.pdf)           | [Code](https://github.com/facebookresearch/ConvNeXt) | [Abstract](https://arxiv.org/abs/2201.03545v1)   |
 |                 |                    | [EfficientNetsV2](./supervised/efficientnet_v2.pdf) | [Code](https://github.com/google/automl/tree/master/efficientnetv2)                 | [Abstract](https://arxiv.org/abs/2104.00298v3)    |

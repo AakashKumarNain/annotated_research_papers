@@ -32,6 +32,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [Segment Anything](./segmentation/segment_anything.pdf)| | [Abstract](https://arxiv.org/abs/2304.02643)            |
 |                 |                    | [Supervised Contrastive Learning](./supervised/supervised_contrastive_learning.pdf) | [Code](https://github.com/google-research/google-research/tree/master/supcon) | [Abstract](https://arxiv.org/abs/2004.11362v5)              |
 |                 |                    | [Vision Transformer](./supervised/an_image_is_worth_16x16_words_transformers_for_image_recognition_at_scale.pdf) | [Code](https://github.com/google-research/vision_transformer)                    | [Abstract](https://arxiv.org/abs/2010.11929) |
+|                 |                    | [Gaze-LLE](./supervised/gazelle.pdf) | [Code](https://github.com/fkryan/gazelle)                        | [Abstract](https://arxiv.org/abs/2412.09586) |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

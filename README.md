@@ -80,6 +80,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [Agent Workflow Memory](./NLP/agent_workflow_memory.pdf) | [Code](https://github.com/zorazrw/agent-workflow-memory)   |  [Abstract](https://arxiv.org/abs/2409.07429) |
 |                 |                    | [What Matters for Model Merging at Scale?](./NLP/model_merging_at_scale.pdf) |   |  [Abstract](https://arxiv.org/abs/2410.03617) |
 |                 |                    | [Matryoshka Quantization](./NLP/matryoshka_quantization.pdf) |   |  [Abstract](https://arxiv.org/abs/2502.06786)   |
+|                 |                    | [Scaling Laws Are Unreliable for Downstream Tasks](./NLP/scaling_laws_for_downstream_tasks.pdf) |   |  [Abstract](https://arxiv.org/abs/2507.00885)   |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |

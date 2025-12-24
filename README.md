@@ -45,6 +45,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [Swav](./self-supervised-learning/swav.pdf) | [Code](https://github.com/facebookresearch/swav)             | [Abstract](https://arxiv.org/abs/2006.09882v5)                   |
 |                 |                    | [What Should Not Be Contrastive in Contrastive Learning](./self-supervised-learning/what_should_not_be_contrastive_in_constrative_learning.pdf)   |  | [Abstract](https://arxiv.org/abs/2008.05659v2) |
 |                 |                    | [Vision Transformers need Registers](./self-supervised-learning/vits_need_registers.pdf)   |  | [Abstract](https://arxiv.org/abs/2309.16588) |
+|                 |                    | [NEPA](./self-supervised-learning/nepa.pdf)   | [Code](https://github.com/SihanXU/nepa) | [Abstract](https://arxiv.org/abs/2512.16922)   |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 | Semi-Supervised    | [CoMatch](./semi-supervised-learning/comatch.pdf) | [Code](https://github.com/salesforce/CoMatch)          | [Abstract](https://arxiv.org/abs/2011.11183v2)                         |

@@ -83,6 +83,7 @@ If you are in any of the categories listed above, then you have arrived at the r
 |                 |                    | [Matryoshka Quantization](./NLP/matryoshka_quantization.pdf) |   |  [Abstract](https://arxiv.org/abs/2502.06786)   |
 |                 |                    | [Scaling Laws Are Unreliable for Downstream Tasks](./NLP/scaling_laws_for_downstream_tasks.pdf) |   |  [Abstract](https://arxiv.org/abs/2507.00885)     |
 |                 |                    | [On the Theoretical Limitations of Embedding-Based Retrieval](./NLP/theoretical_limitations_emb_retrieval.pdf) |   |  [Abstract](https://arxiv.org/abs/2508.21038)     |
+|                 |                    | [Lightning OPD](./NLP/lightning_opd.pdf)     |                       |  [Abstract](https://arxiv.org/abs/2604.13010)            |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
 |                 |                    |                   |                          |                       |
